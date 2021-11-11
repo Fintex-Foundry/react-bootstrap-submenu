@@ -1,5 +1,5 @@
 import * as React from 'react';
-import '../src/index.css';
+// import '../src/index.css';
 import Dropdown from 'react-bootstrap/Dropdown';
 
 interface Props {
